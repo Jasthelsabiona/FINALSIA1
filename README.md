@@ -97,101 +97,58 @@ display: table:
 </head>
 <body>
 <div class="tab">
-<button class="tablinks" onmouseover="openName"(event,'PER')">PERSONAL DATA</Button>
+<button class="tablinks"onmouseover="openName"(event,'PER')">PERSONAL DATA</Button>
 <button class="tablinks"onmouseover=""openName"(event,'EDU')">EDUCATIONAL BACKGROUND</button>
 <button class="tablinks"onmouseover="openName"(event'FAM')">FAMILY BACKGROUND</button>
 </div>
-<div class="PER" class="tabcontent"></>
-<h3>jasthel abejo sabiona</h3>
-<h3>26</>
-<>february 23 1996</>
-<>i live in villanueva mis. or<>
-<>male<>
-<>single<>
-<div class="EDU" class="tabcontent"></>
-<>VICENTE N. CHAVES MEMORIAL CENTRAL SCHOOL<>
-<>VILLANUEVA NATIONAL HIGH SCHOOL<>
-<>TAGOLOAN COMMUNITY COLLEGE<>
-<div class="FAM" class="tabcontent"></div>
-<>complete family<>
-<h3>im the oldest of my brother and sister</h3>
+<div class="PER" class="tabcontent">
+<h3>JASTHEL ABEJO SABIONA</h3>
+<h3>26</h3>
+<h3>FEBRUARY 23 1996</h3>
+<h3>I Live In Villanueva Mis. Or.</h3>
+<h3>MALE</h3>
+<h3>SINGLE</h3>
+</div>
+<div id="EDU" class="tabcontent">
+<h3>VICENTE N. CHAVES MEMORIAL CENTRAL SCHOOL</h3>
+<h3>VILLANUEVA NATIONAL HIGH SCHOOL</h3>
+<h3>TAGOLOAN COMMUNITY COLLEGE</h3>
+</div>
+<div id="FAM" class="tabcontent"></div>
+<h3>Complete Family</h3>
+<h3>Im The Oldest Of My Brother And Sister</h3>
+</div>
 
-</style>
 </head>
 <body>
 <div class="dropdown">
-<button class="dropbtn"Travel</button>
+<button class="dropbtn">Travel</button>
 <div class="dropdown-content">
-  <h2Korea</h2>
+  <h2>Korea</h2>
 <img src="v.jpg" alt="" width="600" height="400">
 <h2>TAGAYTAY</h2>
-<img src="tagaytay.jpeg" alt=""width="600" height="400"
+<img src="tagaytay.jpeg" alt=""width="600" height="400">
  <h2>BORACAY</h2>
   <img src="b.jpg" alt="" width="600" height="400">
-
+</body>
  </div>
 </div>
  <meta nmae="viewport content="width=device-with,
- <style>
-
-
-</style>
+ 
 </head>
 <body>
 <div class="dropdown">
-<button class="dropbtn"> Career</button>
+<button class="dropbtn">Career</button>
 <div class="dropdown-content">
 <h3> HOSPITALITY MANAGEMENT </h3>
 <img src="hm.jpeg" alt"" width="600" height="400">
-<h3> EDUCATION </h3>
-<img src="u. jpg" alt"" width="600" height="400">
-<h3> NURSING </h3>
-<img src="n. jpg" alt"" width="600" height="400">
+<h3>EDUCATION</h3>
+<img src="u.jpg" alt"" width="600" height="400">
+<h3>NURSING</h3>
+<img src="n.jpg" alt"" width="600" height="400">
 
 </div>
 </div>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
