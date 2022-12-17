@@ -146,7 +146,7 @@ display: table:
 <h3> EDUCATION </h3>
 <img src="u. jpg" alt"" width="600" height="400>
 <h3> NURSING </h3>
-<img src=n. jpg" alt width="600" height="400">
+<img src=n. jpg" alt"" width="600" height="400">
 
 </div>
 </div>
