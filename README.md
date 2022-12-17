@@ -144,7 +144,7 @@ display: table:
 <h3> HOSPITALITY MANAGEMENT </h3>
 <img src="hm.jpeg" alt"" width="600" height="400">
 <h3> EDUCATION </h3>
-<img src="u. jpg" alt"" width="600" height="400>
+<img src="u. jpg" alt"" width="600" height="400">
 <h3> NURSING </h3>
 <img src="n. jpg" alt"" width="600" height="400">
 
