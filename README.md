@@ -116,6 +116,24 @@ display: table:
 <>complete family<>
 <h3>im the oldest of my brother and sister</h3>
 
+</style>
+</head>
+<body>
+<div class="dropdown">
+<button class="dropbtn"Travel</button>
+<div class="dropdown-content">
+  <h2Korea</h2>
+<img src="v.jpg" alt="" width="600" height="400">
+<h2>TAGAYTAY</h2>
+<img src="tagaytay.jpeg" alt=""width="600" height="400"
+ <h2>BORACAY</h2>
+  <img src="b.jpg" alt="" width="600" height="400">
+
+ </div>
+</div>
+ <meta nmae="viewport content="width=device-with,
+ <style>
+
 
 
 
