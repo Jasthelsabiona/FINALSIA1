@@ -135,6 +135,24 @@ display: table:
  <style>
 
 
+</style>
+</head>
+<body>
+<div class="dropdown">
+<button class="dropbtn"> Career</button>
+<div class="dropdown-content">
+<h3> HOSPITALITY MANAGEMENT </h3>
+<img src="hm.jpeg" alt"" width="600" height="400">
+<h3> EDUCATION </h3>
+<img src="u. jpg" alt"" width="600" height="400>
+<h3> NURSING </h3>
+<img src=n. jpg" alt width="600" height="400">
+
+</div>
+</div>
+
+</body>
+</html>
 
 
 
