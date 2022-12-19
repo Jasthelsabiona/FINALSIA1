@@ -42,7 +42,7 @@
 	<div class="dropdown">
 		<button class="dropbtn">Profile</button>
 		<div class="dropdown-content">
-			<img src="m.jpg" alt="" width="400" height="350">
+			<img src="p.jpg" alt="" width="400" height="350">
 
 			<html>
 <head>
