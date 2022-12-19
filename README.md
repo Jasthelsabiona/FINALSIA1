@@ -158,7 +158,7 @@ body {font-family: "Lato", sans-serif;}
    			<h3>EDUCATION</h3>
     	<img src="u.jpg" alt="" width="600" height="400">
    			<h3>NURSING</h3>
-    <img src="n.jpg" alt="" width="600" height="400">
+    <img src="y.jpg" alt="" width="600" height="400">
 			
 </body>
 </html>
