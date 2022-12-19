@@ -154,9 +154,9 @@ body {font-family: "Lato", sans-serif;}
 		<button class="dropbtn">Career</button>
 		<div class="dropdown-content">
 			<h3>HOSPITALITY MANAGEMENT</h3>
-		<img src="hm.jpeg" alt="" width="600" height="400">
+		<img src="hm.jpg" alt="" width="600" height="400">
    			<h3>EDUCATION</h3>
-    	<img src="u.jpg" alt="" width="600" height="400">
+    	<img src="te.jpg" alt="" width="600" height="400">
    			<h3>NURSING</h3>
     <img src="y.jpg" alt="" width="600" height="400">
 			
