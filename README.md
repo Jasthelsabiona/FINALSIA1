@@ -145,9 +145,9 @@ body {font-family: "Lato", sans-serif;}
 			<h2>KOREA</h2>
   <img src="n.jpeg" alt="" width="600" height="400">
   <h2>TAGAYTAY</h2>
-  <img src="tagaytay.jpeg" alt="" width="600" height="400">
+  <img src="t.jpeg" alt="" width="600" height="400">
     <h2>BORACAY</h2>
-    <img src="b.jpg" alt="" width="600" height="400">
+    <img src="b.jpeg" alt="" width="600" height="400">
 </head>
 <body>
 	<div class="dropdown">
