@@ -143,7 +143,7 @@ body {font-family: "Lato", sans-serif;}
 		<button class="dropbtn">Travel</button>
 		<div class="dropdown-content">
 			<h2>KOREA</h2>
-  <img src="v.jpg" alt="" width="600" height="400">
+  <img src="n.jpeg" alt="" width="600" height="400">
   <h2>TAGAYTAY</h2>
   <img src="tagaytay.jpeg" alt="" width="600" height="400">
     <h2>BORACAY</h2>
