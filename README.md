@@ -3,27 +3,23 @@
 <head>
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<style>
+	
 	.dropbtn {
 		background-color: blue;
 		color: white;
 		padding: 30px;
 		font-size: 16px;
 		border: none;
-
-		
 	}
 	.dropdown {
 		position: relative;
 		display: inline-block;
-
 	}
 	.dropdown-content {
 		display: none;
 		position: absolute;
 		background-color: #f1f1f1;
 		min-width: 160px;
-		
 	}
 	.dropdown-content a {
 		color: black;
@@ -40,7 +36,7 @@
 
 	.dropdown:hover .dropbtn {background-color: #3e8e41;}
 
-</style>
+
 </head>
 <body>
 	<div class="dropdown">
@@ -141,33 +137,6 @@ body {font-family: "Lato", sans-serif;}
 </div>
 
 <div class="clearfix"></div>
-
-<script>
-function openName(evt, profName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(profName).style.display = "block";
-  evt.currentTarget.className += " active";
-}
-</script>
-
-	
-
-			
-		
-		</div>
-	</div>
-		</div>
-
-	
-	</style>
 </head>
 <body>
 	<div class="dropdown">
@@ -179,14 +148,6 @@ function openName(evt, profName) {
   <img src="tagaytay.jpeg" alt="" width="600" height="400">
     <h2>BORACAY</h2>
     <img src="b.jpg" alt="" width="600" height="400">
-
-	</div>
-		</div>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-	<style>
-	
-
-	</style>
 </head>
 <body>
 	<div class="dropdown">
@@ -199,9 +160,6 @@ function openName(evt, profName) {
    			<h3>NURSING</h3>
     <img src="n.jpg" alt="" width="600" height="400">
 			
-	</div>
-		</div>
-
 
 </body>
 </html>
